@@ -354,7 +354,12 @@ save_model(finetune_model, 'best_model.pth', {
 
 A：修改`data_loader.py`中的数据加载逻辑，参考MNIST的实现方式。
 
-## 📝 许可证
+## �‍💻 作者与维护者
+
+**Jiangsheng Yu**
+- GitHub: [@yujiangsheng](https://github.com/yujiangsheng)
+
+## �📝 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
 
