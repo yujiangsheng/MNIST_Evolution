@@ -1,0 +1,16 @@
+# Python依赖包列表
+# 使用方法: pip install -r requirements.txt
+
+# 深度学习框架
+torch>=2.0.0
+torchvision>=0.15.0
+
+# 数值计算
+numpy>=1.24.0
+
+# 可选：数据可视化（如需要）
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# 可选：进度条（如需要）
+# tqdm>=4.65.0
